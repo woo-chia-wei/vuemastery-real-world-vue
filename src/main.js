@@ -5,7 +5,7 @@ import store from "./store";
 import upperFirst from 'lodash/upperFirst'
 import camelCase from 'lodash/camelCase'
 
-// Automatic Global registration
+// Automatic Global registration on component with name starts from Base
 const requireComponent = require.context(
   './components',
   false,
