@@ -1,9 +1,9 @@
 # About
 Vue Mastery Tutorial 2 - Use Vue CLI to build event management tool
 
-![Screenshot](https://github.com/woo-chia-wei/traffic-fuzzy-control/blob/master/github-assets/screenshot_01.gif)
+![Screenshot](https://github.com/woo-chia-wei/vuemastery-real-world-vue/blob/master/github-assets/screenshot_01.png)
 
-![Screenshot](https://github.com/woo-chia-wei/traffic-fuzzy-control/blob/master/github-assets/screenshot_02.gif)
+![Screenshot](https://github.com/woo-chia-wei/vuemastery-real-world-vue/blob/master/github-assets/screenshot_02.png)
 
 ## Project setup
 ```
