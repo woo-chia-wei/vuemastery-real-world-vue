@@ -1,4 +1,9 @@
-# real-world-vue
+# About
+Vue Mastery Tutorial 2 - Use Vue CLI to build event management tool
+
+![Screenshot](https://github.com/woo-chia-wei/traffic-fuzzy-control/blob/master/github-assets/screenshot_01.gif)
+
+![Screenshot](https://github.com/woo-chia-wei/traffic-fuzzy-control/blob/master/github-assets/screenshot_02.gif)
 
 ## Project setup
 ```
@@ -15,15 +20,3 @@ npm run serve
 npm run build
 ```
 
-### Run your tests
-```
-npm run test
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
