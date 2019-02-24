@@ -9,21 +9,8 @@ Vue.use(Router);
 export default new Router({
   mode: "history",
   routes: [
-    {
-      path: "/",
-      name: "event-list",
-      component: EventList
-    },
-    {
-      path: "/event/:id",
-      name: "event-show",
-      component: EventShow,
-      props: true
-    },
-    {
-      path: "/event/create",
-      name: "event-create",
-      component: EventCreate
-    },
+    { path: "/", component: EventList },
+    { path: "/event/:id", component: EventShow, props: true},
+    { path: "/event/create", component: EventCreate },
   ]
 });
